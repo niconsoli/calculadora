@@ -1,18 +1,36 @@
-## Getting Started
+## Calculadora em Java!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Esta é uma calculadora funcional em java com operações matemáticas simples, feita inteiramente em Java, em um único código main.
+Realizo este exercício como maneira de concretizar o meu conhecimento na linguagem de programação, para cada uma que estudo. Espero que goste!
 
-## Folder Structure
+## Demonstração
 
-The workspace contains two folders by default, where:
+Ao iniciar, a calculadora iniciará consigo um menu com dezesseis opções de operações matemáticas.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+<img width="401" height="353" alt="image" src="https://github.com/user-attachments/assets/23801dc3-3e74-4e5f-bf71-c915268d8535" />
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Para escolher, basta digitar o número atribuído antes de cada uma das operações matemáticas.
+| Como por exemplo, "10" para o Teorema de Pitágoras.
+A partir disto, o menu deve te guiar para o que fazer especificamente em cada uma das operações matemáticas.
+Assim que acabar, pressione Enter para retornar ao menu inicial e realizar quantas operações matemáticas você desejar!
+Para encerrar o ciclo e fechar o menu basta responder `0. Sair`.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Funcionalidades
 
-## Dependency Management
+A calculadora é capaz de efetuar 16 operações matemáticas.
+- Operações simples: Soma, subtração, divisão, multiplicação;
+- Operações de múltiplos números: Média aritmética, MMC, MDC;
+- Operações da geometria: Teorema de Pitágoras, seno, cosseno, tangente.
+E mais!
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Instalação
+
+| Passo a passo para realizar a instalação desta calculadora <b>sem Git!</b>
+
+- Acesse os [`releases`](https://github.com/niconsoli/calculadora/releases);
+- Realize o download do jar mais atualizado;
+- Abra o terminal na pasta baixada;
+- Digite `java -jar [caminho-do-arquivo]`;
+| Em `[caminho-do-arquivo]` insira o caminho completo do arquivo baixado, como por exemplo: "C:\Users\Usuário\Downloads\Calculadora.jar"
+- Se divirta!
+
