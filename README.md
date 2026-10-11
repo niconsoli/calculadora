@@ -7,7 +7,7 @@ Realizo este exercício como maneira de concretizar o meu conhecimento na lingua
 
 Ao iniciar, a calculadora iniciará consigo um menu com dezesseis opções de operações matemáticas.
 
-<img width="401" height="353" alt="image" src="https://github.com/user-attachments/assets/23801dc3-3e74-4e5f-bf71-c915268d8535" />
+<img width="454" height="424" alt="Captura de tela 2026-10-10 220807" src="https://github.com/user-attachments/assets/7221005e-530b-4029-a2a5-492f92320961" />
 
 Para escolher, basta digitar o número atribuído antes de cada uma das operações matemáticas.
 | Como por exemplo, "10" para o Teorema de Pitágoras.
